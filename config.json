@@ -1,0 +1,7 @@
+{
+    "theme": "light",
+    "language": "az",
+    "version": 1.0,
+    "app_name": "Task Master",
+    "pomodoro_minutes": 25
+}
